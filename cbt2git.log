@@ -1,0 +1,8 @@
+2023-04-03 03:30:13.508163 - Initialized conversion of CBT891
+2023-04-03 03:30:13.562626 - Received CBT.V504.FILE891.PDS from FILE891.XMI 
+2023-04-03 03:30:13.565631 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE891.PDS, moved to PDS/$$$#DATE
+2023-04-03 03:30:13.567071 - Found $$NOTE01.txt (text/plain) in CBT.V504.FILE891.PDS, moved to PDS/$$NOTE01
+2023-04-03 03:30:13.568157 - Found $$NOTE02.txt (text/plain) in CBT.V504.FILE891.PDS, moved to PDS/$$NOTE02
+2023-04-03 03:30:13.569440 - Found @FILE891.txt (text/plain) in CBT.V504.FILE891.PDS, moved to PDS/@FILE891
+2023-04-03 03:30:13.570599 - Found @README.txt (text/plain) in CBT.V504.FILE891.PDS, moved to PDS/@README
+2023-04-03 03:30:13.571870 - Found MINE.rexx (text/plain) in CBT.V504.FILE891.PDS, moved to PDS/MINE
