@@ -1,0 +1,7 @@
+2025-04-13 23:50:55.893448 - Received CBT.V508.FILE891.PDS from FILE891.XMI 
+2025-04-13 23:50:55.894219 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE891.PDS, moved to PDS/$$$#DATE
+2025-04-13 23:50:55.894319 - Found $$NOTE01.txt (text/plain) in CBT.V508.FILE891.PDS, moved to PDS/$$NOTE01
+2025-04-13 23:50:55.894394 - Found $$NOTE02.txt (text/plain) in CBT.V508.FILE891.PDS, moved to PDS/$$NOTE02
+2025-04-13 23:50:55.894453 - Found @FILE891.txt (text/plain) in CBT.V508.FILE891.PDS, moved to PDS/@FILE891
+2025-04-13 23:50:55.894511 - Found @README.txt (text/plain) in CBT.V508.FILE891.PDS, moved to PDS/@README
+2025-04-13 23:50:55.894592 - Found MINE.rexx (text/plain) in CBT.V508.FILE891.PDS, moved to PDS/MINE
